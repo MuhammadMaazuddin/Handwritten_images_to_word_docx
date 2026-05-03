@@ -1,0 +1,17 @@
+{
+  "strategy_performance": {
+    "dense_handwriting": {
+      "groq_api": {
+        "attempts": 4,
+        "successes": 4,
+        "avg_confidence": 0.79625,
+        "recent_confidences": [
+          0.7425,
+          0.7425,
+          0.8,
+          0.9
+        ]
+      }
+    }
+  }
+}
